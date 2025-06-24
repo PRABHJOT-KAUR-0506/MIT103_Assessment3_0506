@@ -1,4 +1,4 @@
-// Enhanced Transaction Manager with Full Validation, Admin Controls, Queue, Linked List, and Encryption
+// Enhanced-Transaction Manager with Full Validation, Admin Controls, Queue, Linked List, and Encryption
 
 #include <iostream>
 #include "picosha2.h"
